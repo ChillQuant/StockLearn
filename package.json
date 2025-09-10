@@ -1,0 +1,8 @@
+{
+  "name": "studyfolio",
+  "version": "0.1.0",
+  "description": "Web-based productivity tool that grows a virtual stock portfolio as you stay focused.",
+  "scripts": {
+    "test": "echo \"No tests specified\""
+  }
+}
